@@ -1,6 +1,6 @@
 # Patika.dev_SQL_Odev_1
 
-## Patika.dev SQL eğitimi Ödev1 
+SELECT, WHERE ve Karşılaştırma Operatörleri, WHERE ve Mantıksal Operatörler
 
 Merhabalar,
 
